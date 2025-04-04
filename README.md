@@ -17,7 +17,7 @@ Python Crash Course Book Solves
  
  ------------Part II: Projects-----------------------------
  
- ~~~Project 1: Alien Invasion~~~
+ __Project 1: Alien Invasion___
 
  Chapter 12: A Ship that Fires Bullets  
  Chapter 13: Aliens!  
