@@ -23,13 +23,13 @@ Python Crash Course Book Solves
  Chapter 13: Aliens!  
  Chapter 14: Scoring  
 
- ~~~Project 2: Data Visualization~~~
+ ___Project 2: Data Visualization___
 
  Chapter 15: Generating Data  
  Chapter 16: Downloading Data  
  Chapter 17: Working with APIs  
 
- ~~~Project 3: Web Applications~~~
+ ___Project 3: Web Applications___
 
  Chapter 18: Getting Started with Django  
  Chapter 19: User Accounts  
